@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 60c2eafc9a25db6ca5fb8ad0fbfdaa441f2431bb Matheus Moreira <matheustjp111@gmail.com> 1681130176 -0300	commit (initial): Initial commit
+60c2eafc9a25db6ca5fb8ad0fbfdaa441f2431bb dc9f724d30df5b098fe39dbb3334995eecd59120 Matheus Moreira <matheustjp111@gmail.com> 1681406738 -0300	commit: Project Complete
+dc9f724d30df5b098fe39dbb3334995eecd59120 dc9f724d30df5b098fe39dbb3334995eecd59120 Matheus Moreira <matheustjp111@gmail.com> 1681406752 -0300	Branch: renamed refs/heads/master to refs/heads/main
+dc9f724d30df5b098fe39dbb3334995eecd59120 a52fc5d7d3d753dc77dce4e14ed26970c8baa8fb Matheus Moreira <matheustjp111@gmail.com> 1681496389 -0300	commit: Update schema of validation in Profile.tsx
