@@ -13,14 +13,23 @@ module.exports = function (api) {
             '@components': './src/components',
             '@screens': './src/screens',
             '@storage': './src/storage',
+            '@libs': './src/libs',
             '@utils': './src/utils',
             '@services': './src/services',
             '@hooks': './src/hooks',
+            '@notifications': './src/notifications',
             '@contexts': './src/contexts',
             '@routes': './src/routes',
           },
         },
       ],
+      [
+        'module:react-native-dotenv',
+        {
+          'moduleName': '@env',
+          'allowUndefined': false
+        }
+      ]
     ],
   };
 };

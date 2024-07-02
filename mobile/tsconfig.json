@@ -19,6 +19,9 @@
       "@storage/*": [
         "./src/storage/*"
       ],
+      "@libs/*": [
+        "src/libs/*"
+      ],
       "@utils/*": [
         "src/utils/*"
       ],
@@ -27,6 +30,9 @@
       ],
       "@hooks/*": [
         "./src/hooks/*"
+      ],
+      "@notifications/*": [
+        "./src/notifications/*"
       ],
       "@contexts/*": [
         "./src/contexts/*"
